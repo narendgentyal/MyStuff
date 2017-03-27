@@ -1,0 +1,6 @@
+C:\Users\SHRIYA-PC\GitHub\TestApplication\TestApplication\bin\Debug\TestApplication.exe.config
+C:\Users\SHRIYA-PC\GitHub\TestApplication\TestApplication\bin\Debug\TestApplication.exe
+C:\Users\SHRIYA-PC\GitHub\TestApplication\TestApplication\bin\Debug\TestApplication.pdb
+C:\Users\SHRIYA-PC\GitHub\TestApplication\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\SHRIYA-PC\GitHub\TestApplication\TestApplication\obj\Debug\TestApplication.exe
+C:\Users\SHRIYA-PC\GitHub\TestApplication\TestApplication\obj\Debug\TestApplication.pdb
